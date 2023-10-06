@@ -1,0 +1,7 @@
+receip name :butter chicken
+ingredent
+chicken: 1kg
+chilly power :100g
+pepper :100g
+salt: 2tablespooon
+
